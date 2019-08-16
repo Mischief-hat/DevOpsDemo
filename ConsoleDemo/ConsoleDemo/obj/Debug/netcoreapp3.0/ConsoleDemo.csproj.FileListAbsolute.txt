@@ -1,0 +1,11 @@
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.0\ConsoleDemo.exe
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.0\ConsoleDemo.deps.json
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.0\ConsoleDemo.runtimeconfig.json
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.0\ConsoleDemo.runtimeconfig.dev.json
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.0\ConsoleDemo.dll
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\bin\Debug\netcoreapp3.0\ConsoleDemo.pdb
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.0\ConsoleDemo.csprojAssemblyReference.cache
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.0\ConsoleDemo.AssemblyInfoInputs.cache
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.0\ConsoleDemo.AssemblyInfo.cs
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.0\ConsoleDemo.dll
+C:\Users\Brijesh.Giri\Desktop\DevOpsTemp\DevOpsDemo\ConsoleDemo\ConsoleDemo\obj\Debug\netcoreapp3.0\ConsoleDemo.pdb
